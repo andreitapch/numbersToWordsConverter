@@ -1,0 +1,24 @@
+# Numbers to words converter
+
+this project convert integer number into written words
+
+## Installation
+Open the project as a existing one and use maven
+java 8 was used to complete the assigment
+Junit 4 was used to perform testing
+
+## How it works
+
+Please run Main to start to convert numbers
+Enter an integer number (negatives and positives are accepted)
+Hit enter
+
+Note: When user select letters, decimals or hit enter without setting anything a message will be displayed
+"The input is not a valid number"
+
+
+To run Junits
+please go to test folder and look for UnitsConverterTest and run it. Junit will test the project.
+Or On IDE console type mvn test (please be sure to have maven installed in your local pc)
+
+
